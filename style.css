@@ -1,0 +1,84 @@
+.imagem {
+    text-align: center;
+}
+
+.imagem img {
+    width: 400px;
+    height: 400px;
+}
+
+.icones {
+    width: 60%;
+    margin: auto;
+}
+
+.icones nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    text-align: center;
+    background-color: rgb(214, 214, 214);
+}
+
+.home {
+    font-size: larger;
+    margin: 5%;
+}
+
+.video {
+    margin-top: 3%;
+    text-align: center;
+}
+
+
+.servico h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.servicos {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.servico p {
+    width: 210px;
+    font-size: larger;
+}
+
+.contato {
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.contato h3{
+    margin: 0px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.dados {
+    margin-right: 7%;
+    display: flex;
+    flex-direction: column;
+}
+
+input[type=checkbox]  {
+ margin: 0px;
+ margin-left: 10px;
+} 
+
+.dados input {
+    margin-top: 1%;
+    margin-bottom: 10px;
+}
+
+.endereco {
+    margin-left: 7%;
+}
